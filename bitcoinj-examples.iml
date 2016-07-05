@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="bitcoinj-core" />
+    <orderEntry type="library" name="Maven: com.madgag.spongycastle:core:1.51.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:2.5.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.lambdaworks:scrypt:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.bitcoinj:orchid:1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp:okhttp:2.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: com.h2database:h2:1.3.167" level="project" />
+    <orderEntry type="library" name="Maven: com.github.sarxos:webcam-capture:0.3.9" level="project" />
+    <orderEntry type="library" name="Maven: com.jhlabs:filters:2.0.235-1" level="project" />
+    <orderEntry type="library" name="Maven: com.nativelibs4java:bridj:0.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.android.tools:dx:1.7" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:javase:1.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.4" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.1" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.0.9" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.0.9" level="project" />
+    <orderEntry type="library" name="Maven: uk.org.lidalia:sysout-over-slf4j:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.izpack:izpack-standalone-compiler:4.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.wowdoge:WowDoge:0.3.9.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google:dogecoinj:0.12-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.madgag:sc-light-jdk15on:1.47.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:core:2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-jdk14:1.7.7" level="project" />
+  </component>
+</module>
