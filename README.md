@@ -1,2 +1,2 @@
 # WowDoge
-WowDoge - Lightweight Dogecoin Wallet, new version based on libdohj SPV library.
+WowDoge - Lightweight Dogecoin Wallet. New version based on libdohj SPV library.
